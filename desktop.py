@@ -121,7 +121,7 @@ def main():
 
             elif 'open outlook' in query:
                 webbrowser.open(
-                    "https://outlook.office365.com/mail/inbox/id/AAQkAGYwOGYzNzc1LWJmMjMtNGU1Zi05ZDcyLTkyODQ4N2EzY2RhYQAQAPlhc1CJZblMhIY7pGyE9Bo%3D")
+                    "https://outlook.office365.com")
 
             elif 'open blackboard' in query:
                 webbrowser.open("cuchd.blackboard.com")
